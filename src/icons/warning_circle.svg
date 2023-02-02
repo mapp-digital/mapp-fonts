@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c5583;
+      }
+    </style>
+  </defs>
+  <g id="icon-warning">
+    <path class="cls-1" d="m12,24C5.38,24,0,18.62,0,12S5.38,0,12,0s12,5.38,12,12-5.38,12-12,12Zm0-23C5.93,1,1,5.93,1,12s4.93,11,11,11,11-4.93,11-11S18.07,1,12,1Z"/>
+    <path class="cls-1" d="m11.13,20c0-.7.29-1.05.86-1.05s.88.35.88,1.05-.29,1.05-.88,1.05-.86-.35-.86-1.05Z"/>
+    <path class="cls-1" d="m12.33,15h-.66l-.31-12h1.28l-.31,12Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "es2020",
+    "outDir": "./dist/iconfont",
+    "declaration": true,
+    "sourceMap": false,
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "files": [
+    "./.fantasticon/mapp-fonts.ts"
+  ]
+}
