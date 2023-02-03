@@ -1,13 +1,14 @@
 {
   "name": "@mapp-digital/mapp-fonts",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A collection of fonts used in MAPP UIs.",
   "scripts": {
-    "prepare": "npm run prebuild && npm run build && npm run postbuild",
-    "test": "echo 'no tests yet'",
-    "prebuild": "rm -rf dist .fantasticon && mkdirp dist/iconfont .fantasticon",
-    "build": "fantasticon",
-    "postbuild": "tsc --project ./tsconfig.json && cp -r illustrations dist/ && cp -r .fantasticon/* dist/iconfont/ && rm -rf dist/iconfont/mapp-fonts.ts"
+    "build": "npm run build:prepare && npm run build:icons && npm run build:wrap",
+    "build:prepare": "rm -rf dist .fantasticon && mkdirp dist/iconfont .fantasticon",
+    "build:icons": "fantasticon",
+    "build:wrap": "tsc --project ./tsconfig.json && cp -r illustrations dist/ && cp -r .fantasticon/* dist/iconfont/ && rm -rf dist/iconfont/mapp-fonts.ts",
+    "prepublishOnly": "npm run build",
+    "test": "echo 'no tests yet'"
   },
   "repository": {
     "type": "git",
