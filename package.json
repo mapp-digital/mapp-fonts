@@ -1,7 +1,7 @@
 {
   "name": "@mapp-digital/mapp-fonts",
   "version": "0.0.2",
-  "description": "A collection of fonts used in MAPP UIs.",
+  "description": "A collection of fonts used in Mapp UIs.",
   "scripts": {
     "build": "npm run build:prepare && npm run build:icons && npm run build:wrap",
     "build:prepare": "rm -rf dist .fantasticon && mkdir -p dist/iconfont .fantasticon",
