@@ -1,6 +1,6 @@
-# MAPP Fonts
+# Mapp Fonts
 
-A collection of fonts used in MAPP UIs.
+A collection of fonts used in Mapp Cloud UIs.
 
 ## Usage
 
