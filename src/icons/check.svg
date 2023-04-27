@@ -1,1 +1,11 @@
-<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><style>.cls-1{fill:#3c5583;}</style></defs><path class="cls-1" d="M24,4.15a.5.5,0,0,0-.71,0L8.62,18.82,1,12.12a.49.49,0,0,0-.7.05.5.5,0,0,0,0,.71l8,7h0a.58.58,0,0,0,.32.12A.51.51,0,0,0,9,19.85l15-15A.5.5,0,0,0,24,4.15Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m24,4.15c-.2-.2-.51-.2-.71,0l-14.67,14.67L.97,12.12c-.21-.18-.52-.16-.71.05-.18.21-.16.52.05.71l8,7s0,0,0,0c.09.08.2.12.32.12.13,0,.26-.05.35-.15l15-15c.2-.2.2-.51,0-.71Z"/>
+</svg>
