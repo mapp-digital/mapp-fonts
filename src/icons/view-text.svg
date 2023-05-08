@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+      }
+    </style>
+  </defs>
+  <path id="icon-text-view" class="cls-1" d="m23.33,0H.83C.42,0,.08.34.08.75v3c0,.41.34.75.75.75s.75-.34.75-.75V1.5h9.75v21h-1.5c-.41,0-.75.34-.75.75s.34.75.75.75h4.5c.41,0,.75-.34.75-.75s-.34-.75-.75-.75h-1.5V1.5h9.75v2.25c0,.41.34.75.75.75s.75-.34.75-.75V.75C24.08.34,23.75,0,23.33,0Z"/>
+</svg>

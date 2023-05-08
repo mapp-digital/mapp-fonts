@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+      }
+
+      .cls-2 {
+        fill: #888;
+        stroke: #888;
+        stroke-miterlimit: 10;
+        stroke-width: 16px;
+      }
+    </style>
+  </defs>
+  <g id="grid">
+    <line class="cls-2" x1="-400" y1="32" x2="200" y2="32"/>
+  </g>
+  <path id="icon_info_inv" class="cls-1" d="m12,0C5.38,0,0,5.38,0,12s5.38,12,12,12,12-5.38,12-12S18.62,0,12,0Zm1.22,3.26l-.6,12.41h-1.23l-.6-12.41h2.43Zm-.19,17.06c-.25.28-.6.42-1.04.42-.41,0-.74-.12-1.01-.37s-.4-.65-.4-1.21c0-1.06.47-1.59,1.41-1.59.45,0,.8.14,1.05.41s.37.67.37,1.18-.12.89-.38,1.17Z"/>
+</svg>
