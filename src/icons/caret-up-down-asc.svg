@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="caret-up-down-asc">
+    <path id="Path_11726" data-name="Path 11726" class="cls-1" d="m12,19c-.14,0-.28-.06-.37-.16l-4.5-5c-.19-.2-.17-.52.04-.71.09-.08.21-.13.34-.13h9c.28,0,.5.22.5.5,0,.12-.05.24-.13.34l-4.5,5c-.1.1-.23.16-.37.16m-3.38-5l3.38,3.75,3.38-3.75h-6.75Z"/>
+    <path id="Path_11727" data-name="Path 11727" class="cls-1" d="m16.5,10.99H7.5c-.28,0-.5-.22-.5-.5,0-.12.05-.24.13-.34l4.5-5c.2-.21.53-.21.74,0,0,0,0,0,0,0l4.5,5c.19.2.17.52-.04.71-.09.08-.21.13-.34.13"/>
+  </g>
+</svg>

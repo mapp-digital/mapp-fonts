@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path id="icon_document-blank" class="cls-1" d="m21.85,6.42L15.52.14c-.09-.09-.22-.14-.35-.14H2.5c-.28,0-.5.22-.5.5v23c0,.28.22.5.5.5h19c.28,0,.5-.22.5-.5V6.77c0-.13-.05-.26-.15-.36Zm-.85.56v.34h-6.39V1h.35l6.04,5.98Zm0,16.02H3V1h10.61v6.82c0,.28.22.5.5.5h6.89v14.68Z"/>
+</svg>

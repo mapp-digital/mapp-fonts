@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="icon_web-push">
+    <path class="cls-1" d="m23.5,1H.5c-.28,0-.5.22-.5.5v21c0,.28.22.5.5.5h23c.28,0,.5-.22.5-.5V1.5c0-.28-.22-.5-.5-.5Zm-.5,1v2H1v-2h22ZM1,22V5h22v17H1Z"/>
+    <path class="cls-1" d="m21.5,16h-12c-.28,0-.5-.22-.5-.5v-7c0-.28.22-.5.5-.5h12c.28,0,.5.22.5.5v7c0,.28-.22.5-.5.5Zm-11.5-1h11v-6h-11v6Z"/>
+    <path class="cls-1" d="m14.5,14h-3c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h3c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5Zm-2.5-1h2v-2h-2v2Z"/>
+    <path class="cls-1" d="m19.5,11.5h-3c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h3c.28,0,.5.22.5.5s-.22.5-.5.5Z"/>
+    <path class="cls-1" d="m18.5,13.5h-2c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h2c.28,0,.5.22.5.5s-.22.5-.5.5Z"/>
+  </g>
+</svg>
