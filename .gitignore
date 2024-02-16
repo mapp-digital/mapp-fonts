@@ -3,3 +3,4 @@ node_modules/
 .nvmrc
 package-lock.json
 .fantasticon/
+.DS_Store
