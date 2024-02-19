@@ -10,5 +10,11 @@ module.exports = {
     css: './src/templates/css.hbs',
     scss: './src/templates/scss.hbs',
     html: './src/templates/html.hbs'
+  },
+  formatOptions: {
+    svg: {
+      centerHorizontally: true,
+      centerVertically: true
+    }
   }
 };
