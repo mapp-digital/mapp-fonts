@@ -2,6 +2,11 @@ name: package-version-release
 
 on: push
 
+permissions:
+  actions: read
+  contents: write
+  packages: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
