@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="icon_stop">
+    <g id="path_play">
+      <path class="cls-1" d="M23.5,24H.5c-.28,0-.5-.22-.5-.5V.5C0,.22.22,0,.5,0h23c.28,0,.5.22.5.5v23c0,.28-.22.5-.5.5ZM1,23h22V1H1v22Z"/>
+      <path class="cls-1" d="M18,19H6c-.55,0-1-.45-1-1V6c0-.55.45-1,1-1h12c.55,0,1,.45,1,1v12c0,.55-.45,1-1,1Z"/>
+    </g>
+  </g>
+</svg>

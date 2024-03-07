@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="export" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path id="icon_stop_inv" class="cls-1" d="M23.5,0H.5C.22,0,0,.22,0,.5v23c0,.28.22.5.5.5h23c.28,0,.5-.22.5-.5V.5c0-.28-.22-.5-.5-.5ZM19,18c0,.55-.45,1-1,1H6c-.55,0-1-.45-1-1V6c0-.55.45-1,1-1h12c.55,0,1,.45,1,1v12Z"/>
+</svg>
