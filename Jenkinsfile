@@ -4,4 +4,7 @@ javascriptPipelineLibrary {
     junit = ''
     cobertura = ''
     skipBuild = true
+    nexusAliasesList = [
+        'mapp-fonts'
+    ]
 }
