@@ -1,4 +1,4 @@
-@Library('wt-jenkins-lib@feature/ANALYTICS-6948-utilise-cdn-to-deploy-mapp-fonts') _
+@Library('wt-jenkins-lib@master') _
 
 javascriptPipelineLibrary {
     junit = ''
