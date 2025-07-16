@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg id="illustartions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
     <style>
       .cls-1 {
-        fill: #3c5583;
+        fill: #0a0a0a;
       }
 
       .cls-2 {
-        fill: #dff0fe;
+        fill: #e81e75;
       }
     </style>
   </defs>
-  <g id="illustration_file-code">
+  <g id="file-code">
     <path id="shade" class="cls-2" d="M14.5,51.5v-2.99h31s0,2.98,0,2.98H14.5Z"/>
     <polygon class="cls-2" points="35 25 45 25 35 13 35 25"/>
     <g id="path_document">

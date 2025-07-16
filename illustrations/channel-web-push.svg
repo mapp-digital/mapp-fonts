@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg id="illustartions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
     <style>
       .cls-1 {
-        fill: #3c5583;
+        fill: #0a0a0a;
       }
 
       .cls-2 {
-        fill: #dff0fe;
+        fill: #e81e75;
       }
     </style>
   </defs>
@@ -25,6 +25,7 @@
     <path class="cls-1" d="M60,31.5h-21c-.28,0-.5-.22-.5-.5v-7c0-.28.22-.5.5-.5h21c.28,0,.5.22.5.5v7c0,.28-.22.5-.5.5ZM39.5,30.5h20v-6h-20v6Z"/>
     <path class="cls-1" d="M53,28.5h-7c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h7c.28,0,.5.22.5.5s-.22.5-.5.5Z"/>
     <path class="cls-1" d="M57,26.5h-11c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h11c.28,0,.5.22.5.5s-.22.5-.5.5Z"/>
+    <rect class="cls-2" x="41" y="26" width="3" height="3"/>
     <path class="cls-1" d="M44,29.5h-3c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h3c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM41.5,28.5h2v-2h-2v2Z"/>
   </g>
 </svg>

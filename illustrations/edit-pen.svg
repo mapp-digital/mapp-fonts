@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="export" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg id="illustartions" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
     <style>
       .cls-1 {
-        fill: #3c5583;
+        fill: #0a0a0a;
       }
 
       .cls-2 {
-        fill: #dff0fe;
+        fill: #e81e75;
       }
     </style>
   </defs>
