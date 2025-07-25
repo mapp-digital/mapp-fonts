@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+      }
+    </style>
+  </defs>
+  <g id="icon_crosstable">
+    <g id="path_crosstable">
+      <path class="cls-1" d="M4.5,6.5H.5c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM1,5.5h3v-2H1v2Z"/>
+    </g>
+    <g id="path_crosstable-2" data-name="path_crosstable">
+      <path class="cls-1" d="M10.83,6.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM7.33,5.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-3" data-name="path_crosstable">
+      <path class="cls-1" d="M17.17,6.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM13.67,5.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-4" data-name="path_crosstable">
+      <path class="cls-1" d="M10.83,11.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM7.33,10.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-5" data-name="path_crosstable">
+      <path class="cls-1" d="M17.17,11.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM13.67,10.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-6" data-name="path_crosstable">
+      <path class="cls-1" d="M23.5,6.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM20,5.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-7" data-name="path_crosstable">
+      <path class="cls-1" d="M4.5,21.5H.5c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM1,20.5h3v-2H1v2Z"/>
+    </g>
+    <g id="path_crosstable-8" data-name="path_crosstable">
+      <path class="cls-1" d="M17.17,21.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM13.67,20.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-9" data-name="path_crosstable">
+      <path class="cls-1" d="M23.5,21.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM20,20.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-10" data-name="path_crosstable">
+      <path class="cls-1" d="M4.5,16.5H.5c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM1,15.5h3v-2H1v2Z"/>
+    </g>
+    <g id="path_crosstable-11" data-name="path_crosstable">
+      <path class="cls-1" d="M10.83,16.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM7.33,15.5h3v-2h-3v2Z"/>
+    </g>
+    <g id="path_crosstable-12" data-name="path_crosstable">
+      <path class="cls-1" d="M23.5,16.5h-4c-.28,0-.5-.22-.5-.5v-3c0-.28.22-.5.5-.5h4c.28,0,.5.22.5.5v3c0,.28-.22.5-.5.5ZM20,15.5h3v-2h-3v2Z"/>
+    </g>
+  </g>
+</svg>
