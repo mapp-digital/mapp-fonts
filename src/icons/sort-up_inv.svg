@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bb2649;
+      }
+    </style>
+  </defs>
+  <path id="caret-up" class="cls-1" d="M16.5,15H7.5c-.2,0-.38-.12-.46-.3-.08-.18-.05-.39.08-.54l4.5-5.01c.19-.21.55-.21.74,0l4.5,5.01c.13.15.17.36.08.54-.08.18-.26.3-.46.3Z"/>
+</svg>
