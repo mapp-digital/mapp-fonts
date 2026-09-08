@@ -1,10 +1,7 @@
-@Library('wt-jenkins-lib@master') _
+@Library('wt-jenkins-lib@FEUX-69') _
 
 javascriptPipelineLibrary {
     junit = ''
     cobertura = ''
     skipBuild = true
-    nexusAliasesList = [
-        'mapp-fonts'
-    ]
 }
