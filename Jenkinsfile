@@ -1,4 +1,4 @@
-@Library('wt-jenkins-lib@FEUX-69') _
+@Library('wt-jenkins-lib@master') _
 
 javascriptPipelineLibrary {
     junit = ''
