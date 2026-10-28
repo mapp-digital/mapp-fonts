@@ -6,7 +6,7 @@
     "build": "npm run build:prepare && npm run build:icons && npm run build:wrap",
     "build:prepare": "rm -rf dist .fantasticon && mkdir -p dist/iconfont .fantasticon",
     "build:icons": "fantasticon",
-    "build:wrap": "tsc --project ./tsconfig.json && cp -r illustrations dist/ && cp -r .fantasticon/* dist/iconfont/ && rm -rf dist/iconfont/mapp-fonts.ts",
+    "build:wrap": "tsc --project ./tsconfig.json && cp -r illustrations dist/ && cp -r .fantasticon/* dist/iconfont/ && rm -rf dist/iconfont/mapp-fonts.ts && cp -r logos dist/",
     "prepublishOnly": "npm run build",
     "test": "echo 'no tests yet'"
   },
