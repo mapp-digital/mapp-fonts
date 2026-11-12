@@ -5,20 +5,8 @@
       .cls-1 {
         fill: #bb2649;
       }
-
-      .cls-2 {
-        fill: none;
-        stroke: #888;
-        stroke-miterlimit: 10;
-        stroke-width: 16px;
-      }
     </style>
   </defs>
-  <g id="grid">
-    <g id="grid_24">
-      <line class="cls-2" x1="-8" y1="-360" x2="-8" y2="860"/>
-    </g>
-  </g>
   <g id="icons">
     <g id="icon_trigger_inv">
       <path class="cls-1" d="M20.5,24H6.5c-.2,0-.42-.12-.5-.31s.11-.55.25-.69l1.9-1.95c.09-.09.22-.15.35-.15h0l13.5.1c.2,0,.42.11.5.3.08.19-.2.55-.2.55l-1.45,2c-.09.09-.22.15-.35.15Z"/>
